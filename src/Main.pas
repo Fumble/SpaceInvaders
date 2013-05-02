@@ -65,7 +65,7 @@ end;
 
 procedure TMainForm.Quit1Click(Sender: TObject);
 begin
-  Close
+  Close;
 end;
 
 procedure TMainForm.FormKeyPress(Sender: TObject; var Key: Char);
