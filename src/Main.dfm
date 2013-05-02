@@ -28,6 +28,13 @@ object MainForm: TMainForm
   object PopupMenu1: TPopupMenu
     Left = 272
     Top = 192
+    object SpaceInvadersv101: TMenuItem
+      Caption = 'SpaceInvaders v1.0'
+      Default = True
+    end
+    object CodeFumbleSfxdubmoodRazor19111: TMenuItem
+      Caption = 'Code: Fumble - SFX: dubmood/Razor1911'
+    end
     object Quit1: TMenuItem
       Caption = 'Quit'
       OnClick = Quit1Click

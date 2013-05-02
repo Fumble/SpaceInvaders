@@ -12,6 +12,8 @@ type
     Timer1: TTimer;
     PopupMenu1: TPopupMenu;
     Quit1: TMenuItem;
+    CodeFumbleSfxdubmoodRazor19111: TMenuItem;
+    SpaceInvadersv101: TMenuItem;
     procedure FormKeyPress(Sender: TObject; var Key: Char);
     procedure Timer1Timer(Sender: TObject);
     procedure FormCreate(Sender: TObject);
