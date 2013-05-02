@@ -50,7 +50,7 @@ var
 
 procedure TMainForm.FormClose(Sender: TObject; var Action: TCloseAction);
 begin
-    uFMOD_StopSong;
+  uFMOD_StopSong;
 end;
 
 procedure TMainForm.FormCreate(Sender: TObject);
@@ -58,19 +58,14 @@ begin
   color := clWhite;
 end;
 
-procedure CloseApp;
-begin
- ;
-end;
-
 procedure TMainForm.FormShow(Sender: TObject);
 begin
-  uFMOD_PlaySong(@xm,Length(xm),XM_MEMORY)
+  uFMOD_PlaySong(@xm, Length(xm), XM_MEMORY)
 end;
 
 procedure TMainForm.Quit1Click(Sender: TObject);
 begin
-   Close
+  Close
 end;
 
 procedure TMainForm.FormKeyPress(Sender: TObject; var Key: Char);
