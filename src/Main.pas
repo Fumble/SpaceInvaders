@@ -82,7 +82,7 @@ end;
 procedure TMainForm.Timer1Timer(Sender: TObject);
 var
   i, j, x, y: Integer;
-  rndCol, rndX, rndEye: Integer;
+  rndX, rndEye: Integer;
   col: TColor;
 begin
   Canvas.Brush.color := RGB(255, 255, 255);
