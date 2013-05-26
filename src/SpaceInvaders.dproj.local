@@ -3,13 +3,13 @@
 	<Transactions>
     <Transaction>2013/04/20 10:35:34.000.906,=D:\Documents\RAD Studio\Projets\Unit1.pas</Transaction>
     <Transaction>2013/05/02 18:46:17.000.184,=D:\Documents\RAD Studio\Projets\Unit1.pas</Transaction>
-    <Transaction>2013/05/02 18:46:40.000.391,D:\Documents\RAD Studio\Projets\SpaceInvaders\Main.pas=D:\Documents\RAD Studio\Projets\Unit1.pas</Transaction>
-    <Transaction>2013/05/02 18:46:40.000.391,D:\Documents\RAD Studio\Projets\SpaceInvaders\Main.dfm=D:\Documents\RAD Studio\Projets\Unit1.dfm</Transaction>
-    <Transaction>2013/05/02 18:46:51.000.769,D:\Documents\RAD Studio\Projets\SpaceInvaders\SpaceInvaders.dproj=D:\Documents\RAD Studio\Projets\Project1.dproj</Transaction>
-    <Transaction>2013/05/02 20:17:42.000.937,=D:\Documents\RAD Studio\Projets\SpaceInvaders\Unit1.pas</Transaction>
-    <Transaction>2013/05/02 20:22:46.000.293,=D:\Documents\RAD Studio\Projets\SpaceInvaders\uFMOD.pas</Transaction>
-    <Transaction>2013/05/02 20:23:48.000.606,=D:\Documents\RAD Studio\Projets\SpaceInvaders\Unit1.pas</Transaction>
-    <Transaction>2013/05/02 20:23:57.000.673,D:\Documents\RAD Studio\Projets\SpaceInvaders\Unit1.pas=D:\Documents\RAD Studio\Projets\SpaceInvaders\xm.pas</Transaction>
-    <Transaction>2013/05/02 20:33:04.000.644,=D:\Documents\RAD Studio\Projets\SpaceInvaders\xmfile.pas</Transaction>
+    <Transaction>2013/05/02 18:46:40.000.391,D:\Documents\RAD Studio\Projets\Unit1.pas=D:\Documents\RAD Studio\Projets\SpaceInvaders\Main.pas</Transaction>
+    <Transaction>2013/05/02 18:46:40.000.391,D:\Documents\RAD Studio\Projets\Unit1.dfm=D:\Documents\RAD Studio\Projets\SpaceInvaders\Main.dfm</Transaction>
+    <Transaction>2013/05/02 18:46:51.000.769,D:\Documents\RAD Studio\Projets\Project1.dproj=D:\Documents\RAD Studio\Projets\SpaceInvaders\SpaceInvaders.dproj</Transaction>
+    <Transaction>2013/05/02 20:17:42.937,=D:\Documents\RAD Studio\Projets\SpaceInvaders\Unit1.pas</Transaction>
+    <Transaction>2013/05/02 20:22:46.293,=D:\Documents\RAD Studio\Projets\SpaceInvaders\uFMOD.pas</Transaction>
+    <Transaction>2013/05/02 20:23:48.606,=D:\Documents\RAD Studio\Projets\SpaceInvaders\Unit1.pas</Transaction>
+    <Transaction>2013/05/02 20:23:57.673,D:\Documents\RAD Studio\Projets\SpaceInvaders\xm.pas=D:\Documents\RAD Studio\Projets\SpaceInvaders\Unit1.pas</Transaction>
+    <Transaction>2013/05/02 20:33:04.644,=D:\Documents\RAD Studio\Projets\SpaceInvaders\xmfile.pas</Transaction>
   </Transactions>
 </BorlandProject>
